@@ -1,62 +1,6 @@
 {
   "data": [
     {
-      "year": "2016/17",
-      "serviceEN": "Air Mail",
-      "serviceTC": "空郵",
-      "serviceSC": "空邮",
-      "volume": "148"
-    },
-    {
-      "year": "2016/17",
-      "serviceEN": "Surface & Speedpost",
-      "serviceTC": "平郵及特快專遞",
-      "serviceSC": "平邮及特快专递",
-      "volume": "17"
-    },
-    {
-      "year": "2017/18",
-      "serviceEN": "Air Mail",
-      "serviceTC": "空郵",
-      "serviceSC": "空邮",
-      "volume": "193"
-    },
-    {
-      "year": "2017/18",
-      "serviceEN": "Surface & Speedpost",
-      "serviceTC": "平郵及特快專遞",
-      "serviceSC": "平邮及特快专递",
-      "volume": "20"
-    },
-    {
-      "year": "2018/19",
-      "serviceEN": "Air Mail",
-      "serviceTC": "空郵",
-      "serviceSC": "空邮",
-      "volume": "247"
-    },
-    {
-      "year": "2018/19",
-      "serviceEN": "Surface & Speedpost",
-      "serviceTC": "平郵及特快專遞",
-      "serviceSC": "平邮及特快专递",
-      "volume": "86"
-    },
-    {
-      "year": "2019/20",
-      "serviceEN": "Air Mail",
-      "serviceTC": "空郵",
-      "serviceSC": "空邮",
-      "volume": "176"
-    },
-    {
-      "year": "2019/20",
-      "serviceEN": "Surface & Speedpost",
-      "serviceTC": "平郵及特快專遞",
-      "serviceSC": "平邮及特快专递",
-      "volume": "100"
-    },
-    {
       "year": "2020/21",
       "serviceEN": "Air Mail",
       "serviceTC": "空郵",
@@ -69,7 +13,63 @@
       "serviceTC": "平郵及特快專遞",
       "serviceSC": "平邮及特快专递",
       "volume": "62"
+    },
+    {
+      "year": "2021/22",
+      "serviceEN": "Air Mail",
+      "serviceTC": "空郵",
+      "serviceSC": "空邮",
+      "volume": "135"
+    },
+    {
+      "year": "2021/22",
+      "serviceEN": "Surface & Speedpost",
+      "serviceTC": "平郵及特快專遞",
+      "serviceSC": "平邮及特快专递",
+      "volume": "34"
+    },
+    {
+      "year": "2022/23",
+      "serviceEN": "Air Mail",
+      "serviceTC": "空郵",
+      "serviceSC": "空邮",
+      "volume": "106"
+    },
+    {
+      "year": "2022/23",
+      "serviceEN": "Surface & Speedpost",
+      "serviceTC": "平郵及特快專遞",
+      "serviceSC": "平邮及特快专递",
+      "volume": "18"
+    },
+    {
+      "year": "2023/24",
+      "serviceEN": "Air Mail",
+      "serviceTC": "空郵",
+      "serviceSC": "空邮",
+      "volume": "61"
+    },
+    {
+      "year": "2023/24",
+      "serviceEN": "Surface & Speedpost",
+      "serviceTC": "平郵及特快專遞",
+      "serviceSC": "平邮及特快专递",
+      "volume": "13"
+    },
+    {
+      "year": "2024/25",
+      "serviceEN": "Air Mail",
+      "serviceTC": "空郵",
+      "serviceSC": "空邮",
+      "volume": "38"
+    },
+    {
+      "year": "2024/25",
+      "serviceEN": "Surface & Speedpost",
+      "serviceTC": "平郵及特快專遞",
+      "serviceSC": "平邮及特快专递",
+      "volume": "12"
     }
   ],
-  "lastUpdateDate": "2021-11-05 12:26:36"
+  "lastUpdateDate": "2025-12-11 08:21:42"
 }
